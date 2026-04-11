@@ -1,4 +1,4 @@
-# # Deviation as Signal: Outcome Data Reverses AI Classification from Error to Expertise
+##Deviation as Signal: Outcome Data Reverses AI Classification from Error to Expertise
 
 *Simulation Studies Across Four Domains*
 

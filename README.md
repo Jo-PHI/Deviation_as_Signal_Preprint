@@ -1,4 +1,5 @@
-## About preprint: Deviation as Signal: Outcome Data Reverses AI Classification from Error to Expertise
+## About ## 
+**Deviation as Sign: Outcome Data Reverses AI Classification from Error to Expertise**
 
 *Simulation Studies Across Four Domains*
 

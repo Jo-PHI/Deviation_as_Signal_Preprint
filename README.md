@@ -1,4 +1,3 @@
-## About
 **Deviation as Sign: Outcome Data Reverses AI Classification from Error to Expertise**
 
 *Simulation Studies Across Four Domains*
@@ -6,6 +5,8 @@
 Jo Esterly • PHI • phi@joesterly.com
 
 ---
+
+## About
 
 AI systems managing operational workflows classify human deviation from protocol as error by default. This paper presents simulation evidence that the classification is determined not by model capability but by which operational data reaches the assessment — and that connecting outcome data already present in most systems reverses the classification entirely.
 

@@ -12,8 +12,7 @@ Across nine conditions in four operational domains (coffee roasting, home health
 
 The model's capability was present in both assessments. What changed was whether the system's outcome data reached the classification. The gap is not in the data. It is in the pipeline.
 
-The full preprint is available in this repository [as Deviation_as_signal_Preprint.md](https://github.com/Jo-PHI/Deviation_as_Signal_Preprint/tree/main)
-
+The full preprint is available in this repository 
 ---
 
 ## Five findings

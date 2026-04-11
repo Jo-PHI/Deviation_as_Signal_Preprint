@@ -1,6 +1,4 @@
-## About uploaded preprint: Deviation as Signal
-
-**Outcome Data Reverses AI Classification from Error to Expertise**
+## About preprint: Deviation as Signal: Outcome Data Reverses AI Classification from Error to Expertise
 
 *Simulation Studies Across Four Domains*
 
@@ -36,21 +34,16 @@ A secondary finding — *the courtesy problem* — describes how well-trained mo
 * [`Deviation_as_Signal_Preprint.md`](./Deviation_as_Signal_Preprint.md) — full preprint
 
 * License.
-  This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).  This Preprint has been submitted for publication on arXiv, pending endorsement.  Please cite appropriately.**
----
-
-## Citation
-
+  This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).  This Preprint has been submitted for publication on arXiv, pending endorsement.  Please cite appropriately.
+  
+* Citation.
 Esterly, J. (2026). Deviation as Signal: Outcome Data Reverses AI Classification from Error to Expertise. Simulation Studies Across Four Domains. Preprint.
+
 ---
 
+PHI is a research program documenting tacit knowledge and embodied expertise across operational domains. The program's archive draws on approximately thirty years of cross-domain fieldwork in skilled trades, healthcare, manufacturing, finance, and the arts. "Deviation as Signal" applies that fieldwork lineage to the assessment of operational AI systems and the ways those systems currently classify — and misclassify — the human intelligence inside them.
 
-PH is a research program documenting tacit knowledge and embodied expertise across operational domains. 
-The program's archive draws on approximately thirty years of cross-domain fieldwork in skilled trades, healthcare, manufacturing, finance, and the arts. 
-Deviation as Signal applies that fieldwork lineage to the assessment of operational AI systems and the ways those systems currently classify — and misclassify — the human intelligence inside them.
-
-Contact
-Jo Esterly
+Contact: Jo Esterly • phi@joesterly.com
 PHI: Portraits of Human Intelligence
-phi@joesterly.com
+
 For inquiries about the research, the methodology or collaboration on the planned N=55 replication and discrimination testing studies, please reach out directly.

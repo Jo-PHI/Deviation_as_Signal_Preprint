@@ -1,4 +1,4 @@
-# About #
+## About
 **Deviation as Sign: Outcome Data Reverses AI Classification from Error to Expertise**
 
 *Simulation Studies Across Four Domains*

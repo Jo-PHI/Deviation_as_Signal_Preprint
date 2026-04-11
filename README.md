@@ -12,7 +12,7 @@ Across nine conditions in four operational domains (coffee roasting, home health
 
 The model's capability was present in both assessments. What changed was whether the system's outcome data reached the classification. The gap is not in the data. It is in the pipeline.
 
-The full preprint is available in this repository as Deviation_as_signal_Preprint.md
+The full preprint is available in this repository [as Deviation_as_signal_Preprint.md](https://github.com/Jo-PHI/Deviation_as_Signal_Preprint/tree/main)
 
 ---
 
@@ -31,7 +31,7 @@ A secondary finding — *the courtesy problem* — describes how well-trained mo
 
 ## Repository contents
 
-* Deviation_as_signal_Preprint.md — full preprint
+* Deviation_as_signal_Preprint.md
 
 * License.
   This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).  This Preprint has been submitted for publication on arXiv, pending endorsement.  Please cite appropriately.

@@ -1,5 +1,6 @@
-**SUMMARY of PHI Preprint 002:  Deviation as Sign
-Outcome Data Reverses AI Classification from Error to Expertise**
+**SUMMARY of PHI Preprint 002:  Deviation as Signal**
+
+**Outcome Data Reverses AI Classification from Error to Expertise**
 
 *Simulation Studies Across Four Domains*
 

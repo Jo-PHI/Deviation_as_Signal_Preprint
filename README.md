@@ -46,7 +46,7 @@ Esterly, J. (2026). Deviation as Signal: Outcome Data Reverses AI Classification
 
 ---
 
-PHI is a research program documenting tacit knowledge and embodied expertise across operational domains. The program's archive draws on approximately thirty years of cross-domain fieldwork in skilled trades, healthcare, manufacturing, finance, and the arts. "Deviation as Signal" applies that fieldwork lineage to the assessment of operational AI systems and the ways those systems currently classify — and misclassify — the human intelligence inside them.
+PHI's work follows tacit knowledge and other human intelligence.  It draws on approximately thirty years of cross-domain fieldwork in skilled trades, healthcare, manufacturing, finance, and the arts. "Deviation as Signal" applies that fieldwork lineage to the assessment of operational AI systems and the ways those systems currently classify — and misclassify — the human intelligence inside them.
 
 Contact: Jo Esterly • phi@joesterly.com
 PHI: Portraits of Human Intelligence

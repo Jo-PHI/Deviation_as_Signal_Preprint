@@ -1,4 +1,4 @@
-**SUMMARY of PHI Preprint 002:  Deviation as Signal**(April 2026)
+**SUMMARY of PHI Preprint 002:  Deviation as Signal** (April 2026)
 
 **Outcome Data Reverses AI Classification from Error to Expertise**
 
